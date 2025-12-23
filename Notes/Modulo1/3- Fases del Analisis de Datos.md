@@ -9,6 +9,7 @@ Aquí se formularán las preguntas que posteriormente buscaremos responder, llev
 
 ## Preparar
 Aquí se buscarán exhaustivamente e identificaremos las fuentes de los datos, así mismo recopilaremos datos, verificando que sean precisos y exactos, los cuales nos lleven a una respuesta a nuestras preguntas ya formuladas en la fase anterior.
+
 ## Proceso
 Buscaremos la limpieza y organización de los datos, eliminando datos clonados, de baja relevancia e incoherentes, además de transformar los datos a un formato deseado para su posterior análisis y manipulación, lo cual nos abrirá puertas a la siguiente fase.
 
@@ -17,6 +18,7 @@ La fase de análisis consiste en examinar los datos con el objetivo de obtener r
 
 ## Compartir
 Generando las respuestas en la fase anterior, ahora estamos listos para crear nuestras conclusiones y verlo de manera gráfica utilizando herramientas; en el caso del repositorio, se utilizará R y/o Matplotlib.
+
 ## Actuar
 Básicamente es donde se aplican las conclusiones generadas, por lo cual se pueden implementar productos, estrategias o lo que sea necesario según el contexto.
 ---
