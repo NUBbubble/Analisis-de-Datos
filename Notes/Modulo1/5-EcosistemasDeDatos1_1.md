@@ -1,4 +1,4 @@
-# Ecosistemas de Datos  
+# 1.1- Ecosistemas de Datos  
 
 ## Orígenes
 > Los primeros registros de aquellos hombres que comenzaron a documentar los datos se remontan a los antiguos egipcios, los cuales plasmaban su información en papiro. Así desencadenando lo que ahora son los analistas de datos.
