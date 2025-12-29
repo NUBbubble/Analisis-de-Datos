@@ -1,4 +1,5 @@
-# Fases del Análisis de Datos
+# Ciclo De Vida De Los Datos Y Sus Implicaciones
+# Fases Del Análisis de Datos
 
 Como anteriormente habíamos visto, y a manera de recordatorio, se mencionan las fases del análisis de datos, las cuales constan de **6 pasos**. Estos se profundizarán de manera detallada y, posteriormente, se implementarán poco a poco herramientas como **hojas de cálculo**, **software de consulta**, **bases de datos** y **software de visualización de datos**.
 
@@ -10,7 +11,6 @@ Como anteriormente habíamos visto, y a manera de recordatorio, se mencionan las
 6. **Actuar**
 
 ---
-
 # Ciclo de Vida de los Datos
 
 Al igual que en un ecosistema los animales tienen un ciclo de vida, sucede lo mismo con los datos. Estos constan de las siguientes **6 fases**:
